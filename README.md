@@ -1,28 +1,14 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
-
-# Mi Card
-
-## Our Goal
-
-Now that you've seen how to create a Flutter app entirely from scratch, we're going to go further and learn more about how to design user interfaces for Flutter apps.
-
-## What you will create
-
-Mi Card is a personal business card. Imagine every time you wanted to give someone your contact details or your business card but you didn't have it on you. Well, now you can get them to download your business card as an app.
-
-## What you will learn
-
-* How to create Stateless Widgets
-* What is the difference between hot reload and hot refresh and running an app from cold
-* How to use Containers to lay out your UI
-* How to use Columns and Rows to position your UI elements
-* How to add custom fonts
-* How to add Material icons
-* How to style Text widgets
-* How to read and use Flutter Documentation
+**This is a siple presnetation card created on Flutter**
+To download and run this, you will need to have Adroid Studio with Dart and Flutter installed.
+Once you do, clone this repo on your desired path and open it as an existing project.
+Run the app on you Emuator and you're good to go!
 
 
+**Versions**
+Flutter 3.10.1 • channel stable • https://github.com/flutter/flutter.git
+Framework • revision d3d8effc68
+Engine • revision b4fb11214d
+Tools • Dart 3.0.1 • DevTools 2.23.1
 
->This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
+Dart SDK version: 3.0.1 (stable) (Tue May 16 11:57:19 2023 +0000) on "linux_x64"
 
-![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
