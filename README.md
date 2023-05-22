@@ -1,4 +1,4 @@
-**This is a siple presnetation card created on Flutter**
+**This is a simple presentation card created on Flutter**
 
 To download and run this, you will need to have Adroid Studio with Dart and Flutter installed.
 Once you do, clone this repo on your desired path and open it as an existing project.
