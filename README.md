@@ -12,5 +12,5 @@ Framework • revision d3d8effc68
 Engine • revision b4fb11214d
 Tools • Dart 3.0.1 • DevTools 2.23.1
 
-Dart SDK version: 3.0.1 (stable) (Tue May 16 11:57:19 2023 +0000) on "linux_x64"
+Dart SDK version: 3.0.1 (stable)
 
